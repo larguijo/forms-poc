@@ -127,8 +127,8 @@ But for react-select the set up looks nasty and non-intuitive. https://react-hoo
 <td>Which one is used the most by the community</td>
 <td>Formik is been used a lot more than RHF and activity in GIT is also better for Formik.
 </td>
-<td></td>
 <td>&#10004;</td>
+<td></td>
 </tr>
 
 </table>
